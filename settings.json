@@ -1,0 +1,41 @@
+{
+    "window.zoomLevel": 2,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j","k"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.autoClosingBrackets": true,
+    "files.autoSave": "afterDelay",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "typescript.tsserver.log": "verbose",
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "search.location": "panel",
+    "files.exclude": {
+      "**/*.js": {"when": "$(basename).ts"},
+      "**/*.js.map": true,
+      "**/*.d.ts": {"when": "$(basename).ts"},
+    },
+    // "mocha.logVerbose": true,
+    "editor.wordWrap": "on",
+    "mocha.showInExplorer": true,
+    "mocha.coverage": {
+      "enable": false
+    },
+    "explorer.confirmDragAndDrop": false,
+    "tslint.autoFixOnSave": true,
+    "editor.formatOnSave": true,
+    "prettier.semi": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.singleQuote": true
+  }

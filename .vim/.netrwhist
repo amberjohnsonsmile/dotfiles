@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/amberjohnson/Documents/Galvanize/warm-ups/ember/quick-start'
-let g:netrw_dirhist_2='/Users/amberjohnson/Documents/Galvanize/galvanize-dinosaurs/drills/version-1/cypress'
-let g:netrw_dirhist_3='/Users/amberjohnson/Documents/Galvanize/dinosaurs-refactored/version-1/cypress'
-let g:netrw_dirhist_4='/Users/amberjohnson/Documents/Galvanize/dinosaurs-refactored/version-2/cypress'
