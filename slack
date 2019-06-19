@@ -151,7 +151,7 @@ ts-message .mention {
 }
 .c-member_slug--mention,
 .c-member_slug--mention:hover {
-  background: #FF0000 !important;
+  background: #00ff00 !important;
   color: black !important;
 }
 #convo_tab .message_input,
