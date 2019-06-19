@@ -138,7 +138,7 @@ ts-message .mention {
     color: #ffce8e!important;
     font-weight: 600 !important;
     border: none !important;
-    font-size:13px;
+    font-size:16px;
    }
 .menu_content a {
     color: white !important;
@@ -349,7 +349,7 @@ p-search_filter__date:first-child {
 }
 .p-search_filter__more_link {
     color: #36D4F6;
-    font-size: 13px;
+    font-size: 16px;
     margin-top: 4px;
 }
 .c-link--button:active,
@@ -377,7 +377,7 @@ p-search_filter__date:first-child {
     padding: 0 .5rem;
     background-color: #545454;
     color: white;
-    font-size: 15px;
+    font-size: 16px;
 }
 .p-channel_insights__date_heading::before {
     display: block;
@@ -406,7 +406,7 @@ p-search_filter__date:first-child {
 .c-message--light .c-message__sender .c-message__sender_link {
     color: #a4d677 !important;
     font-weight: 700 !important;
-    font-size: 14px !important;
+    font-size: 16px !important;
 }
 .light_theme ts-message .message_content .message_sender {
     color:  #a4d677 !important;
@@ -454,7 +454,7 @@ p-search_filter__date:first-child {
     color: green !important;
 }
 .p-channel_sidebar {
-    font-size: 14px !important;
+    font-size: 16px !important;
 }
 .c-file__meta {
     background: blue !important;
@@ -948,7 +948,7 @@ color:#a4d677 !important
                     background-color: #008952;
                 }
                 .c-message_kit__file__meta__text {
-                    font-size: 12px;
+                    font-size: 16px;
                     color: #949494 !important;}
                     .msg_input_btn {
                         background-color: #008952 !important;
@@ -1122,7 +1122,7 @@ color:#a4d677 !important
     line-height: 1.5;
     padding: 11px 0 11px 11px;
     border-top: 1px solid #4c4c4c;
-    font-size: 14px;
+    font-size: 16px;
     background: #222222;
     color: white;}
     #details_tab .conversation_details .member_info, #details_tab .conversation_details .slackbot_info{
@@ -1255,8 +1255,8 @@ color:#a4d677 !important
     padding-top: 3px;
     border-bottom: 3px solid #ff5a5a;}
     .p-emoji_picker__preview_text {
-    font-size: .9rem;
-    line-height: .9rem;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
     padding: .6rem .7rem .8rem 0;
     background: #3a3a3a;
     color: #ffffff;}
@@ -1291,7 +1291,7 @@ background:black;}
     color:white !important
 }
 .c-menu_item__description {
-    font-size: 13px;
+    font-size: 16px;
     line-height: .9375;
     color: #ababab;}
     .c-message--focus:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message--hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight), .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight){
@@ -1307,7 +1307,7 @@ background:black;}
     border-top: 0;
     border-bottom: 1px solid #000;}
     #flex_contents .help {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #ffffff;
     line-height: 1.3rem;
     padding-top: 1rem;
@@ -1387,7 +1387,7 @@ color:white;}
     display: inline-block;
     color: #ffffff;}
     .modal_input_note {
-    font-size: .8rem;
+    font-size: 1.5rem;
     color: #ffffff;}
     .greigh {
     color: #fda792!important;}
@@ -1412,8 +1412,8 @@ color:white;}
     .lazy_filter_select .lfs_list .lfs_item.selected, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__current-status .prevent_copy_paste, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__current-status--small:before, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__display-name, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__name, .lazy_filter_select .lfs_list .lfs_item.selected .c-unified_member__secondary-name {
     color: #9ac4e5;}
     .input_note_special {
-    font-size: .9rem;
-    line-height: 1.25rem;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
     color: #ffffff;}
     .btn{
         text-shadow: none;}
@@ -1436,7 +1436,7 @@ color:white;}
     .sk_black {
     color: #ffffff;}
     #channel_browser .channel_browser_channel_created_info, #channel_browser .channel_browser_channel_invite_info, #channel_browser .channel_browser_channel_shared_info, #channel_browser .channel_browser_private_channel_rollup_info {
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.38463;
     font-weight: initial;
     color: #c0c0c0;}
@@ -1448,7 +1448,7 @@ color:white;}
     background: transparent;}
     #channel_browser .channel_browser_divider {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 16px;
     width: 100%;
     padding: 4px 0 4px 12px;
     font-weight: 700;
@@ -1461,7 +1461,7 @@ color:white;}
     .c-message_list__day_divider__label__pill {
     background: #474747 !important;}
     #im_browser .im_browser_row .im_display_name_container {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 21px;
     height: 21px;
     color: white;}
@@ -1498,7 +1498,7 @@ color:white;}
     .uneditable-input, input[type=text], input[type=password], input[type=datetime], input[type=datetime-local], input[type=date], input[type=month], input[type=time], input[type=week], input[type=number], input[type=email], input[type=url], input[type=tel], input[type=color], input[type=search], textarea{
     border-radius:0 !important; background: #222222;}
     .searchable_member_list_filter .faux_input {
-    font-size: 1rem;
+    font-size: 1.5rem;
     padding: .55rem .75rem .65rem;
     border: 1px solid #3c3c3c;
     border-radius: .25rem;
@@ -1517,7 +1517,7 @@ color:white;}
     padding: .75rem .5rem .75rem .75rem;
     border-bottom: 1px solid #565656}
     #whats_new_tab p {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 22px;
     color: #ffffff;}
     .indifferent_grey {
@@ -1601,7 +1601,7 @@ color:white;}
     c-keyboard_key {
     background: #646464;
     padding: 2px 8px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 400;
     min-width: 24px;
     height: 27px;
@@ -1622,7 +1622,7 @@ color:white;}
     .c-keyboard_key {
     background: #575656;
     padding: 2px 8px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 400;
     min-width: 24px;
     height: 27px;
@@ -1645,7 +1645,7 @@ color:white;}
     .tab_container .star_item .message .star_jump.msg_right_link, .tab_container .star_item ts-message .star_jump.msg_right_link{
     background:black}
     [lang] .c-message_kit__message {
-    font-size: 15px;
+    font-size: 16px;
     color: white;}
     .p-multi_file_upload__container .p-galler_scroller__wrapper{border:none}
     .fs_modal_file_viewer_header .control_btn.active, .fs_modal_file_viewer_header .control_btn:active, .fs_modal_file_viewer_header .control_btn:focus, .fs_modal_file_viewer_header .control_btn:hover, .fs_modal_file_viewer_header a.control_btn.active, .fs_modal_file_viewer_header a.control_btn:active, .fs_modal_file_viewer_header a.control_btn:focus, .fs_modal_file_viewer_header a.control_btn:hover{color:white;}
@@ -1720,7 +1720,7 @@ color:white;}
     align-items: center;
     padding: 8px 10px;
     line-height: 24px;
-    font-size: 15px;
+    font-size: 16px;
     background: TRANSPARENT !important;}
     .c-message--highlight, .c-message--highlight_yellow_bg {
     background: #171614;}
@@ -1745,8 +1745,8 @@ color:white;}
     p-apps_browser__app_limit_meter__paragraph {
     color: #d8d8d8;}
     .p-apps_browser__category_header {
-    font-size: 1rem;
-    line-height: 1.2rem;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
     background: TRANSPARENT;
     color: #ffffff;
     padding-bottom: .5rem;}
@@ -2004,7 +2004,7 @@ padding-top:2px;}
     border-top: 1px solid #656565;}
     
     .c-message_list__day_divider__label__pill{
-    font-size: 12px;
+    font-size: 16px;
     }
     .c-card_carousel__btn {
     background: #000;}
