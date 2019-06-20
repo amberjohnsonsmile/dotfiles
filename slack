@@ -1,8 +1,8 @@
 /* #00FF00, #006600, #FF0000 */
-@import url('https://fonts.googleapis.com/css?family=B612+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
 body {
-  font-family: 'B612 Mono', monospace !important;
+  font-family: 'Roboto Mono', monospace !important;
   text-rendering: optimizeLegibility important;
   word-spacing: -1px;
   -webkit-font-smoothing: auto;
