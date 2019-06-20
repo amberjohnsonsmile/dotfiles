@@ -83,7 +83,7 @@ div.c-message:hover {
   color: white !important;
 }
 a {
-  color: #36D4F6!important;
+  color: #006600!important;
 }
 .comment .app_preview_link_slug,
 .comment .internal_member_link,
