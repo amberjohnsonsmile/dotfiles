@@ -1,8 +1,8 @@
 /* #00FF00, #006600, #FF0000 */
-@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
 
 body {
-  /* font-family: 'Muli', sans-serif !important; */
+  font-family: 'Roboto Mono', serif !important;
   text-rendering: optimizeLegibility important;
   word-spacing: -1px;
   -webkit-font-smoothing: auto;
