@@ -168,8 +168,8 @@ ts-message .mention {
   color: white !important;
 }
 #primary_file_button:hover {
-  border: 2px solid #006039 !important;
-  background: #006039 !important;
+  border: 2px solid #006600 !important;
+  background: #006600 !important;
 }
 #primary_file_button {
   position: absolute;
